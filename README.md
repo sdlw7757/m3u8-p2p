@@ -19,7 +19,6 @@
 p2p/
 ├── index.php          # 首页聚合入口（默认调用 DP-P2P）
 ├── index1.php         # 辅助播放页
-├── jx.php             # 视频解析跳转页
 ├── pucms.css          # 页面样式
 ├── pucms.js           # 页面脚本
 ├── ck/                # CKplayer 播放器

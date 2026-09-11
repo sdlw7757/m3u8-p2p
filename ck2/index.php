@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge"><!-- IE内核 强制使用最新的引擎渲染网页 -->
 <meta name="renderer" content="webkit">  <!-- 启用360浏览器的极速模式(webkit) -->
 <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0 ,maximum-scale=1.0, user-scalable=no"><!-- 手机H5兼容模式 -->
-<title>CK-P2P解析</title>
+<title>我爱云CK-P2P解析</title>
 <style type="text/css">body,html,.a1{background-color:#000;padding: 0;margin: 0;width:100%;height:100%;}
 #info{position:fixed;top:5px;left:10px;font-size:10px;color:#fdfdfd;z-index:20719029;text-shadow:1px 1px 1px #000, 1px 1px 1px #000}</style>
 </head>

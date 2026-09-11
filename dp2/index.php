@@ -1,4 +1,4 @@
-<title>dplayer</title>
+<title>我爱云DP-P2P解析</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" >
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><!-- IE内核 强制使用最新的引擎渲染网页 -->
 <meta name="renderer" content="webkit">  <!-- 启用360浏览器的极速模式(webkit) -->

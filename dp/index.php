@@ -9,6 +9,7 @@
     *{margin:0;border:0;padding:0;text-decoration:none}
     #dplayer{position:inherit}
 </style>
+<title>我爱云DP解析</title>
 <div id="dplayer"></div>
 <div id="stats"></div>
 <input type="hidden" id="url" value="<?php echo htmlspecialchars((isset($_GET["url"])?$_GET["url"]:""), ENT_QUOTES, 'UTF-8');?>">
